@@ -8,10 +8,13 @@ You need Ruby, RubyGems, and Bundler working, I think. After you have those:
 Should get things going.
 
 To preview, run:
+
 ```jekyll serve```
-and point your webbroswer to (http://localhost:4000)[http://localhost:4000]
+
+and point your webbroswer to [http://localhost:4000](http://localhost:4000)
 ##Publishing
 To publish the page, issue this command
+
 ```rake site:publish```
 
 
