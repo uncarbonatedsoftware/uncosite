@@ -2,21 +2,18 @@
 This is the Jekyll source for uncarbonatedsoftware.com.
 ##Setup
 You need Ruby, RubyGems, and Bundler working, I think. After you have those:
-'''
-bundle install
-'''
+
+```bundle install```
+
 Should get things going.
 
 To preview, run:
-'''
-jekyll serve
-'''
+```jekyll serve```
 and point your webbroswer to (http://localhost:4000)[http://localhost:4000]
 ##Publishing
 To publish the page, issue this command
-'''
-rake site:publish
-'''
+```rake site:publish```
+
 
 Below is the theme info.
 
